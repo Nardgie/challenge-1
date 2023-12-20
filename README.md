@@ -1,4 +1,4 @@
-# Horiseon: Digital Marketing Services
+# Horiseon
 
 ## Description
 
