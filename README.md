@@ -15,7 +15,7 @@ Horiseon's website is designed for ease of use
 - Scroll down and read about our services and offerings.
 
 ```md
-![SEO Strategy Doodles](assets/images/search-engine-optimization.jpg)
+![Screenshot of horiseon page](./assets/images/horiseon-screenshot.png)
 ```
 
 ## Credits
