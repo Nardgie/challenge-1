@@ -6,7 +6,7 @@ Horiseon is a digital marketing services provider, specializing in Search Engine
 
 ## Installation
 
-Visit site at: <URL HERE>
+Visit site at: <https://nardgie.github.io/challenge-1/>
 
 ## Usage
 
